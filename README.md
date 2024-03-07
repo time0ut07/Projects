@@ -11,4 +11,12 @@ I am completely new to these kind of stuff therefore the C2-server should be qui
 
 
 # RaspBerry-Pi
-As I own a RaspBerry-Pi (RPI), I have use it for many different stuff like ad-blocker, password storage, while adding defensive measures such as intrusion detection system and honey ports to protect my RPI (for fun), I will be uploading the scripts I used in this folder.
+Owning a RaspBerry-Pi (RPI), I have use it for many different stuff like ad-blocker, password storage, while adding defensive measures such as intrusion detection system and honey ports to protect my RPI (for fun), I will be uploading the scripts I used in this folder.
+
+
+# Anki
+Coded this flashcard CLI when I was relatively new to coding. Works pefectly fine as a flashcard but could make more QOL changes.
+
+
+# Block Chain
+Coded this by myself for a module presentation demonstration of blockchain.
