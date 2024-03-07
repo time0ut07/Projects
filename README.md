@@ -11,7 +11,7 @@ I am completely new to these kind of stuff therefore the C2-server should be qui
 
 
 # RaspBerry-Pi
-Owning a RaspBerry-Pi (RPI), I have use it for many different stuff like ad-blocker, password storage, while adding defensive measures such as intrusion detection system and honey ports to protect my RPI (for fun), I will be uploading the scripts I used in this folder.
+Owning a RaspBerry-Pi (RPI) 4, I have use it for many different stuff like ad-blocker, password storage, while adding defensive measures such as intrusion detection system and honey ports to protect my RPI (for fun), I will be uploading the scripts I used in this folder.
 
 
 # Anki
