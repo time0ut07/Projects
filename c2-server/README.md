@@ -1,6 +1,8 @@
 # C2-Server
 
-This project was done during the year 2 holiday.
+During the year 2 holiday (before going to year 3), I spent a bit of my time building a simple C2-server in python. It have many functionalities like getting information of the client machine and using the command prompt of the machine.
+
+I am completely new to these kind of stuff therefore the C2-server should be quite bad (or just trash). I did it just for fun and as long as it works and acts like c2-server, I'm fine with it. However, after I gain more knowledge, I would like to really build a full scale c2-server where people will use it in the real world.
 
 
 ### c2-server.py
